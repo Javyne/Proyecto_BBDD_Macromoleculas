@@ -23,7 +23,7 @@ Consiste en una aplicación de consola (terminal de comandos) que permite buscar
 
 ```bash
 # 1. Clonar el repositorio
-git clone <https://github.com/Javyne/Proyecto_BBDD_Macromoleculas.git>
+git clone <https://github.com/Unknow-Error/Proyecto_BBDD_Macromoleculas.git>
 cd protein_cli
 
 # 2. Crear entorno virtual (recomendado)
